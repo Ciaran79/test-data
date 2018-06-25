@@ -1,11 +1,22 @@
 {
   "name": "test-data",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ciaran79/test-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ciaran79/test-data/issues"
+  },
+  "homepage": "https://github.com/Ciaran79/test-data#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.12.1"
+  }
 }
